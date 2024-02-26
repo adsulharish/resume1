@@ -1,0 +1,79 @@
+body{
+    background-color: black;
+    color: rgb(201, 201, 201);
+    padding: 5px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-image: url("http://wonderfulengineering.com/wp-content/uploads/2014/09/blue-wallpaper.jpeg");
+}
+#profilephoto{
+    height: 150px;
+    width: 150px;
+    background-color: #c1c1c1;
+    padding: 5px;
+    border-radius: 15%; 
+    margin-right: 10px;   
+    
+}
+#name{
+    text-align: center;
+    margin-top: 4%;
+    background-color: rgba(99, 99, 99, 0.315);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    height: 35px;
+    margin-left: 2%;
+    border-radius: 7%;
+    display: inline-block;
+    position: absolute;
+}
+#index{
+    background-color: rgb(100 100 100 / 25%);
+    height: 720px;
+    width: 24%;
+    padding: 4px;
+    border-radius: 4%;
+    margin: 4px;
+    border: 2px;
+    display: inline-block;
+}
+#head{
+    
+    display: inline-block;
+    position: absolute;
+    
+    
+}
+
+.data{
+    height: 300px;
+    width: 38%;
+    padding: 2px;
+    border-radius:5%;
+    font-size: small;
+    border-color: white;
+    margin-inline-start: 1%;
+    margin:4px;
+    background-color: rgba(83, 83, 83, 0.296);
+    
+    display: inline-block;
+    margin-top: inherit;
+}
+p{
+    color: aqua;
+    font-size: medium;
+    font-style: normal;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+.headings{
+    font-size: large;
+    color: #9ea0a1;
+}
+.skills{
+    color: aqua;
+}
+#contact{
+    color: #d9d9d9;
+}
